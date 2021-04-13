@@ -1,0 +1,13 @@
+https://robotics.stackexchange.com/questions/9554/quadcopter-pid-algorithm
+https://github.com/betaflight/betaflight/wiki/PID-Tuning-Guide
+https://fpv-flightclub.com/how-to-tune-pids/
+https://intofpv.com/t-what-is-tpa-in-cleanflight-betaflight
+https://www.robotshop.com/community/tutorials/show/how-to-make-a-drone-uav-lesson-3-propulsion
+https://nossosrobos.blogspot.com/p/varios-pesquisadores-de-empresas-e.html
+
+https://www.youtube.com/watch?v=SZxp6BJgBUg
+https://www.youtube.com/watch?v=XlSIBOlp200
+https://arxiv.org/pdf/1003.2005v4.pdf
+https://www.youtube.com/watch?v=cVrM1iAd8ic
+https://www.youtube.com/watch?v=mghBBhpKaJI
+https://www.youtube.com/watch?v=VlBQLbmc03g
